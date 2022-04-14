@@ -10,4 +10,13 @@ SA1 :
 
   https://github.com/welingtonvb/uc9/tree/main/SA1
 
-- Link Figma do projeto: https://www.figma.com/file/28m0A7VbhjM5wwuN6Zcv0K/Game-Mania?node-id=70%3A73  	
+- Link Figma do projeto: https://www.figma.com/file/28m0A7VbhjM5wwuN6Zcv0K/Game-Mania?node-id=70%3A73  
+
+SA2 :
+
+Encontro remoto 1
+
+- Foi adicionada a atividade realizada neste encontro na pasta ER1
+
+https://github.com/welingtonvb/uc9/tree/main/SA2/ER/ER1
+
