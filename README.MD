@@ -18,5 +18,5 @@ Encontro remoto 1
 
 - Foi adicionada a atividade realizada neste encontro na pasta ER1
 
-https://github.com/welingtonvb/uc9/tree/main/SA2/ER/ER1
+https://github.com/welingtonvb/uc9/tree/main/SA2/ER/ER1/site
 
