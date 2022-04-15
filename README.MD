@@ -32,3 +32,9 @@ Encontro remoto 3
 
 https://github.com/welingtonvb/uc9/tree/main/SA2/ER/ER3/site
 
+Encontro remoto 4
+
+- Foi adicionada a atividade realizada neste encontro na pasta ER4
+
+https://github.com/welingtonvb/uc9/tree/main/SA2/ER/ER4/site
+
