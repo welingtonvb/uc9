@@ -38,3 +38,7 @@ Encontro remoto 4
 
 https://github.com/welingtonvb/uc9/tree/main/SA2/ER/ER4/site
 
+GAME MANIA
+
+- Foi a adicionada a atividade 1 relacionada ao projeto Game Mania.
+
