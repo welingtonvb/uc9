@@ -42,3 +42,5 @@ GAME MANIA
 
 - Foi a adicionada a atividade 1 relacionada ao projeto Game Mania.
 
+https://github.com/welingtonvb/uc9/tree/main/SA2/Atividade1/game-mania
+
