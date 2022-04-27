@@ -1,0 +1,149 @@
+/* media */
+
+@media screen and (max-width:319px){
+  .body-visivel {
+    display: none;
+  }
+} 
+
+@media screen and (max-width:570px) {
+  
+  .visivel-768 {
+    display: none;
+  }
+
+  .visivel-320 {
+    display: none;
+  }
+
+  .visivel-menu {
+    display: block;
+  }
+
+  .navegacao,
+  .logo {
+    margin-bottom: 0;
+  }
+
+  .navegacao { 
+    justify-content: start;  
+   }
+
+}
+
+@media only screen and (min-width:320px) and (max-width:767px) {
+
+  .destaque-produtos {
+    display :none;
+  }
+
+  .banner-produto img {
+    width: 200px;
+  }
+
+  h2 {
+    font-size: 20px;
+  } 
+
+  .destaque-boletim-texto p {
+    font-size: 15px;
+  }
+ 
+  .rodape-linha1 {
+    flex-direction: column;
+  }
+  
+}  
+
+@media screen and (min-width:1023px) {
+
+  .novidade-produto {
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;  
+  }  
+}
+
+@media screen and (min-width:1441px){
+
+  .faixa-logo {
+    margin-left: 150px;
+    margin-right: 150px;    
+  }
+
+
+  .galeria {
+    margin-left: 150px;
+    margin-right: 150px;
+  }  
+
+  .rodape {
+    padding-left: 150px;
+    padding-right: 150px;
+  }
+} 
+
+@media screen and (min-width:320px){
+  .submenu {
+    display: none;
+  }
+} 
+
+/* visibilidade dos cards da galeria  */
+
+  .visivel-card-1 {
+    display: none;
+  }
+  
+  .visivel-card-2 {
+    display: none;
+  }
+  
+  .visivel-card-3 {
+    display: none;
+  }
+  
+  .visivel-card-4 {
+    display: none;
+  }
+  
+  .visivel-card-5 {
+    display: none;
+  }  
+
+@media only screen and (min-width:320px) and (max-width:460px) {
+
+  .visivel-card-1 {
+    display: block;
+  }
+}  
+
+@media only screen and (min-width:461px) and (max-width:611px) {
+
+  .visivel-card-1,
+  .visivel-card-2 {
+    display: block;
+  }
+}  
+
+  @media only screen and (min-width:612px) and (max-width:972px) {
+
+    .visivel-card-1,
+    .visivel-card-2,
+    .visivel-card-3 {
+      display: block;
+    }  
+}  
+
+@media screen and (min-width:973px) {
+
+  .visivel-card-1,
+  .visivel-card-2,
+  .visivel-card-3,
+  .visivel-card-4,
+  .visivel-card-5 {
+    display: block;
+  } 
+}  

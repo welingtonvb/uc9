@@ -14,33 +14,5 @@ SA1 :
 
 SA2 :
 
-Encontro remoto 1
-
-- Foi adicionada a atividade realizada neste encontro na pasta ER1
-
-https://github.com/welingtonvb/uc9/tree/main/SA2/ER/ER1/site
-
-Encontro remoto 2
-
-- Foi adicionada a atividade realizada neste encontro na pasta ER2
-
-https://github.com/welingtonvb/uc9/tree/main/SA2/ER/ER2/site
-
-Encontro remoto 3
-
-- Foi adicionada a atividade realizada neste encontro na pasta ER3
-
-https://github.com/welingtonvb/uc9/tree/main/SA2/ER/ER3/site
-
-Encontro remoto 4
-
-- Foi adicionada a atividade realizada neste encontro na pasta ER4
-
-https://github.com/welingtonvb/uc9/tree/main/SA2/ER/ER4/site
-
-GAME MANIA
-
-- Foi a adicionada a atividade 1 relacionada ao projeto Game Mania.
-
-https://github.com/welingtonvb/uc9/tree/main/SA2/Atividade1/game-mania
+- Atualização de todo o repositorio
 
