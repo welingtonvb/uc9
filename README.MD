@@ -8,11 +8,35 @@ SA1 :
 
 - Foi adicionado a apresentação do projeto do site Game Mania em pdf, pptx e odf.
 
-  https://github.com/welingtonvb/uc9/tree/main/SA1
+https://github.com/welingtonvb/uc9/tree/main/SA1
 
-- Link Figma do projeto: https://www.figma.com/file/28m0A7VbhjM5wwuN6Zcv0K/Game-Mania?node-id=70%3A73  
+
+- Link Figma do projeto:
+ 
+https://www.figma.com/file/28m0A7VbhjM5wwuN6Zcv0K/Game-Mania?node-id=70%3A73  
+
 
 SA2 :
 
-- Atualização de todo o repositorio
+- Atualização de todo o repositorio.
+
+https://github.com/welingtonvb/uc9/tree/main/SA2
+
+
+- Atividades dos encontros remotos - E-players
+
+https://github.com/welingtonvb/uc9/tree/main/SA2/er-eplayers
+
+
+- Atividades e encontros remotos - Game Mania:
+
+https://github.com/welingtonvb/uc9/tree/main/SA2/game-mania
+
+
+- O site Game Mania encontra-se na em encontro remoto 5, na pasta versão final:
+
+https://github.com/welingtonvb/uc9/tree/main/SA2/game-mania/Remoto5/versao-final
+
+
+- Figma foi atualizado devido a alterações após versão final do site.
 
