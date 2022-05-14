@@ -40,3 +40,11 @@ https://github.com/welingtonvb/uc9/tree/main/SA2/game-mania/Remoto5/versao-final
 
 - Figma foi atualizado devido a alterações após versão final do site.
 
+SA3 :
+
+- Inclusão da pasta referente a unidade SA3 da UC9.
+
+https://github.com/welingtonvb/uc9/tree/main/SA3
+
+- npm i para instalar dependências para executar o projeto
+
